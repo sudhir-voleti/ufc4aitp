@@ -1,3 +1,4 @@
 streamlit
 markitdown
-requests
+python-pptx  # Explicitly handles PowerPoint
+plum-dispatch # Often required by newer Microsoft-based parsers
